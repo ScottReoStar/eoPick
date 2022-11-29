@@ -1,0 +1,57 @@
+{
+  "version": "3.57.26476.0",
+  "course_id": "5mX4CnWAMHR_course_id",
+  "title": "Get Work and Confirm",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Get Work and Confirm"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6CQTxFjnWyR",
+      "title": "click to play",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5XsXofFYGtf",
+      "title": "click to play",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6IGeosE0Hxr",
+      "title": "try it get work",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6JFVfPZAE5i",
+      "title": "watch get work handoff",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6fd16zXmhbi",
+      "title": "watch pick info",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6LnZRFbc7AR",
+      "title": "try it confirm",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5qwBnJ1f4ey",
+      "title": "watch pick info",
+      "scene_index": "1.7"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
